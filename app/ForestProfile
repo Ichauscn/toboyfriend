@@ -1,0 +1,7 @@
+import ForestProfile from './ForestProfile';
+
+function App() {
+  return <ForestProfile />;
+}
+
+export default App;
