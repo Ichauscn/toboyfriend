@@ -1,3 +1,4 @@
+给我男朋友写的两百行代码，运用简单的Java开发，基本用户交互，写在这里存着
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
